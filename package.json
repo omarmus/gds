@@ -1,0 +1,10 @@
+{
+  "name": "@gds/monorepo",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "sites/*"
+    ]
+  }
+}
